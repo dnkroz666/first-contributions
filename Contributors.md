@@ -20,6 +20,7 @@
 - [Harsh Vishwakarma] (https://github.com/harsh256-code)
 - [Satvir Singh] (https://github.com/SatvirSingh98)
 - Prithvi
+- Marc-Andre Roy
 -VidishaTindolia
 - SH Park
 - [Luke EJH] (https://github.com/luke-ejh)
